@@ -28,7 +28,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 1. Construct frequency distribution for the data
 
-2. Find the  probability distribution from frequency distribution.
+2. Find the  probability distribution from frequency distribution.   
 
 3. Calculate mean using 
    
